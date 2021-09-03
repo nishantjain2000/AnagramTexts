@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnagramTexts</string>
+    <string name="my_hint">Enter Text</string>
+</resources>
